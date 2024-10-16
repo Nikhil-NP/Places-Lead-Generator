@@ -13,15 +13,12 @@ The **Places Lead Generator** is a collection of python scripts  that utilizes t
 ## Scripts
 The project contains the following Python scripts:
 
-1. **PlacesCenter.py**: This is the first script that i wrote on this topic this isnt perfect but it tried to Search for businesses in a around central location based on a given query.i made sure the centeral literally translates to actual central point in india both latitude and longitude.
-
-
-
+1. **PlacesCenter.py**: This is the first script that i wrote on this topic this isnt perfect but it tried to Search for businesses  across India  from central location based on a given query.i made sure the centeral literally translates to actual central point in india both latitude and longitude.
 2. **PlacesDiverse.py**: This follows a differnt approch than the above , it has a collection of top cities and it generates diverse leads across multiple cities using the specified query.
-3. **PlacesDiverse2.py**:The above script was better but had issues with results the leads were not verfied like rating/reviews etc so to address that i created an enhanced version of `PlacesDiverse.py` with additional filtering options 
+3. **PlacesDiverse2.py**:The above script was better than PlacesCenter.py but had issues with results the leads were not verfied like rating,reviews etc so to address that i created an enhanced version of `PlacesDiverse.py` with additional filtering options 
 4. **PlacesMulKey.py**: The previos modules still lacked one problem that was i not able to provide multiple keywords to look for even more wider set of organizations ,so basically this searches for businesses based on multiple keywords simultaneously.
 5. **PlacesReginal.py**: one more issue with PlacesDiverse2.py and PlacesDiverse.py was that there were targeting cities across India and not  Targets businesses in specific regions, here we target specific cities  like Banglore,Pune,Delhi,Mumbai etc..
-6. **PlacesSingleKey.py**: Searches for businesses using a single keyword.(this was a primitve model which i initally created to test the api ,not that special )
+6. **PlacesSingleKey.py**: Searches for businesses using a single keyword.(this was a primitve model which i initally created to test the api)
 
 #### How to Use
 1. Ensure you have the required Python packages:
