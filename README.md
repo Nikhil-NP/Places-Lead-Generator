@@ -1,6 +1,6 @@
 # Places-Lead-Generator
 ## Overview
-The **Places Lead Generator** is a collection of python scripts  that utilizes the Google Places API to search and  filter businesses based on various criteria. This project   aims to generate leads for businesses across india and potentially overseas  based on keywords,this was a fun project that i decided to work on as i was not satisfied with **justdial** as often  it didnt provided valid contact details of potential businesses , this was created as a experiment to play around google places API.
+The **Places Lead Generator** is a collection of python scripts  that utilizes the Google Places API to search and  filter businesses based on various criteria. This project   aims to generate leads for businesses across india and potentially overseas  based on keywords,this was a fun project that i decided to work on as i was not satisfied with **justdial** as often  it didnt provided valid contact details of potential businesses , this was created as a experiment to play around google places API and try to solve that.
 
 
 ## Table of Contents
