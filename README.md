@@ -40,4 +40,4 @@ To use the Google Places API, you must have an API key. Follow these steps to co
 
 
 ### Sample data 
-his project includes sample data for demonstration purposes.
+this project includes sample data for demonstration purposes.
